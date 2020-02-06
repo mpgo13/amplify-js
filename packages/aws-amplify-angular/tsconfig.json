@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "downlevelIteration": true,
     "baseUrl": ".",
     "allowJs": true,
     "stripInternal": true,
